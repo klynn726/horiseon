@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* -- Begin header --*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +38,9 @@
     margin-left: 25px;
 }
 
+/* -- End header --*/
+
+/* -- Begin body --*/
 body {
     background-color: #d9dcd6;
 }
@@ -50,6 +54,7 @@ body {
     background-position: center;
 }
 
+/* -- Begin content --*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,6 +98,9 @@ p {
     font-size: 16px;
 }
 
+/* -- End content --*/
+
+/* -- Begin aside --*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,7 +125,11 @@ p {
     max-width: 150px;
 }
 
+/* -- End aside --*/
 
+/* -- End body --*/
+
+/* -- Begin footer --*/
 .footer {
     padding: 30px;
     clear: both;
@@ -128,3 +140,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* -- End footer --*/
