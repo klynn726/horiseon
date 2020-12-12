@@ -1,10 +1,10 @@
 # Code Refactor Starter Code
 
-## Project title: Horiseon##
+## Project title: Horiseon
 
-## Description:## This is a simple mock up for Horiseon's website.
+## Description: This is a simple mock up for Horiseon's website.
 
-## Table of Contents:#
+## Table of Contents
 * [Instillation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -33,8 +33,8 @@ Katherine Lynn
 
 ## Github deployed page: 
 
-[link to Github deployed page](https://klynn726.github.io/horiseon/)
+[Github deployed page](https://klynn726.github.io/horiseon/)
 
 ## Github repository: 
 
-[link to Github repository](https://github.com/klynn726/horiseon)
+[Github repository](https://github.com/klynn726/horiseon)
