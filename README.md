@@ -38,4 +38,3 @@ Katherine Lynn
 ## Github repository: 
 
 [link to Github repository](https://github.com/klynn726/horiseon)
-
